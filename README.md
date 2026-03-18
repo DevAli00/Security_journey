@@ -6,7 +6,6 @@ from GRC concepts to practical offensive and defensive techniques.
 ## Currently Working On
 - HTB CPTS — ~40% complete
 - Python for security automation
-- AWS cloud security basics
 
 ## Active Projects
 ًWill be added later
